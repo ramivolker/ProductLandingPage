@@ -462,4 +462,7 @@ form{
     .label-div p{
         font-size: 0.9rem;
     }
+    .award-icon{
+        margin: 0 29px;
+    }
 }
